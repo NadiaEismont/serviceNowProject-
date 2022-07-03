@@ -43,10 +43,6 @@ a {
   width: 400px;
 }
 
-$color1: #e74c3c;
-$color2: #ff6b08;
-$animation-time: 2.5s;
-
 .loadingSpinner {
   display: none;
   position: absolute;
@@ -55,6 +51,7 @@ $animation-time: 2.5s;
   width: 20px;
   height: 20px;
   transform: translate(-50%, -50%);
+
   .dot {
     position: absolute;
     border-radius: 50%;

@@ -1,6 +1,6 @@
-$(".carousel").carousel({
-  interval: 2000,
-});
+// $(".carousel").carousel({
+//   interval: 2000,
+// });
 
 const spinner = document.querySelector(".loadingSpinner");
 const backdrop = document.querySelector(".backdrop");
